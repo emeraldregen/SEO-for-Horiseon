@@ -5,9 +5,11 @@
 
 This website contains refactored aspects of the existing code to meet accessibility standards. This ensures that people with disabilities have acces to this website, and improves its position in search engines.
 
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+<img src="./assets/images/Screenshot-Horiseon.png">
+
+## Live Website
+
+ https://emeraldregen.github.io/SEO-for-Horiseon/
 
 
 ## Installation
